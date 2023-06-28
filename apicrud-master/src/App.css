@@ -1,0 +1,10 @@
+.form-edit{
+    position: absolute;
+    top: 0px;right: 0px;
+    background-color: rgb(66, 63, 63);
+    color: white;
+    position: absolute;
+}
+form{
+    overflow-y: auto;
+}
